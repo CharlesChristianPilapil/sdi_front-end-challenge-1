@@ -4,7 +4,7 @@ import image3 from "../assets/tmsph-ls-midafood.jpeg";
 
 export const imagesConst = [image1, image2, image3];
 
-export const activeNewsConst = 0;
+export const activeNewsConst = 2;
 
 export const currentPage = 19;
 export const totalPages = 57;
